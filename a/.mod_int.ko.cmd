@@ -1,0 +1,1 @@
+cmd_/home/mininet/device_driver/a/mod_int.ko := ld -r -m elf_x86_64 -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/mininet/device_driver/a/mod_int.ko /home/mininet/device_driver/a/mod_int.o /home/mininet/device_driver/a/mod_int.mod.o ;  true
