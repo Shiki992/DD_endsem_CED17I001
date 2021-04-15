@@ -3,7 +3,7 @@
 MODULE_LICENSE("GPL");
   
 ///< The author -- visible when you use modinfo
-MODULE_AUTHOR("Shiki Brekksten");
+MODULE_AUTHOR("Hrishikesh Vedantam - CED17I001");
   
 ///< The description -- see modinfo
 MODULE_DESCRIPTION("An integer parameter accepting LKM!");
